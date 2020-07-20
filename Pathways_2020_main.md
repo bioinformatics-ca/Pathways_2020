@@ -1,25 +1,24 @@
 ---
 layout: workshop_main_3day
-permalink: /Pathways_2019
+permalink: /Pathways_2020
 title: Pathways
 header1: Workshop Pages for Students
-header2: Pathways and Network Analysis of -Omics Data 2019
+header2: Pathways and Network Analysis of -Omics Data 2020
 image: /site_images/CBW_pathway_icon.jpg
 keywords: Gene lists, predict gene function, identify master regulators
 description: Course covers the bioinformatics concepts and tools available for interpreting a gene list using pathway and network information. 
-intructors: Gary Bader, Veronique Voisin, Lincoln Stein, Robin Haw, Micheal Hoffman, Quaid Morris
+intructors: Gary Bader, Veronique Voisin, Robin Haw, Micheal Hoffman,
 length: 3 days
 ---
-# Welcome <a id="welcome"></a>
+# Welcome 
 
-Welcome to Pathways and Network Analysis of -Omics Data 2019.  
+Welcome to Pathways and Network Analysis of -Omics Data 2020.  
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/Pathways_2019_schedule).  
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/Pathways_2020_schedule).  
 
-Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1-YV2KzEDyaU6opdlXt9Ir6VQSmCCv1DZ/view?usp=sharing).  
+Meet your faculty  
 
-**CLASS MATERIALS:** You can download the printed course manual [here](https://drive.google.com/a/bioinformatics.ca/file/d/1HcPuiYUJe69w3_0aNpAfhk7DipcacA6r/view?usp=sharing).  
-
+**CLASS MATERIALS:** 
 ***
 
 # Pre-Workshop Materials and Laptop Setup Instructions <a id="preworkshop"></a>
@@ -30,7 +29,7 @@ Instructions to setup your laptop can be found [here](https://bioinformaticsdotc
 
 ## Pre-workshop Tutorials
 
-Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/Pathways_2019_prework).  
+Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/Pathways_2020_prework).  
 It is in your best interest to complete these before the workshop.
 
 ***
@@ -38,8 +37,7 @@ It is in your best interest to complete these before the workshop.
 
 # Class photo
 
-<img src="https://github.com/bioinformaticsdotca/Pathways_2019/blob/master/Pathways2019_ClassPhoto.jpg?raw=true" alt="Class Photo" width="750" />
-
+Comming soon
 ***  
 
 # Day 1 <a id="day1"></a>
