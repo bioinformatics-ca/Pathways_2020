@@ -22,6 +22,6 @@ home: https://bioinformaticsdotca.github.io/Pathways_2020
 | 2:30 |  <font color="purple">Module 3: Network visualization and analysis with Cytoscape (Ruth Isserlin)</font>| 2:15 | <font color="purple">Module 5: Regulatory Network Analysis (Michael Hoffman)</font> | | |
 ||| 3:15 | <font color="blue"> Module 5: Lab (Veronique Voisin)</font> | | |
 | 3:30 | <font color="green">* Break*</font> | 4:15 |<font color="green">* Break*</font>| | |
-| 4:00 | <font color="blue"> Module 3: Lab (Ruth Isserlin) </font>  | 3:00 | Module 6: Gene Function Prediction (Veronique Voisin)</font>| | |
+| 4:00 | <font color="blue"> Module 3: Lab (Ruth Isserlin) </font>  | 4:30 | Module 6: Gene Function Prediction (Veronique Voisin)</font>| | |
 | 6:00 | |6:00| |
 
