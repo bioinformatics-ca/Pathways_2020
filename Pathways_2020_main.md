@@ -18,7 +18,6 @@ The course schedule can be found [here](https://bioinformaticsdotca.github.io/Pa
 
 Meet your faculty [here](https://drive.google.com/file/d/1V1Xmgx9VfsPCuW5MAabV0CyMJtFEYGUr/view?usp=sharing)  
 
-**CLASS MATERIALS:** 
 ***
 
 # Pre-Workshop Materials and Laptop Setup Instructions <a id="preworkshop"></a>
