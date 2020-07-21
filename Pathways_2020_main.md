@@ -51,7 +51,7 @@ Comming soon
   
   [Module 1](https://baderlab.github.io/CBW_Pathways_2020/intro.html)
     
-##  Module 2 inding over-represented pathways in gene lists 
+##  Module 2: Finding over-represented pathways in gene lists 
 
   *<font color="#827e9c">Veronique Voisin & Ruth Isserlin</font>*
   
