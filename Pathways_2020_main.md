@@ -24,11 +24,11 @@ Meet your faculty [here](https://drive.google.com/file/d/1V1Xmgx9VfsPCuW5MAabV0C
 
 ## Laptop Setup Instructions
 
-Instructions to setup your laptop can be found [here](https://bioinformaticsdotca.github.io/Pathways_laptop_setup_instructions).
+Instructions to setup your laptop can be found [here](https://baderlab.github.io/CBW_Pathways_2020/welcome.html#pre-workshop).
 
 ## Pre-workshop Tutorials
 
-Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/Pathways_2020_prework).  
+Pre-readings and pre-work can be found here [here](https://baderlab.github.io/CBW_Pathways_2020/welcome.html#pre-workshop-tutorials).  
 It is in your best interest to complete these before the workshop.
 
 ***
