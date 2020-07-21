@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /Pathways_2019_prework
+permalink: /Pathways_2020_prework
 title: Pathways
 header1: Workshop Pages for Students
-header2: Pathways and Network Analysis of -Omics Data 2019
+header2: Pathways and Network Analysis of -Omics Data 2020
 image: /site_images/CBW_pathway_icon.jpg
-home: https://bioinformaticsdotca.github.io/Pathways_2019
+home: https://bioinformaticsdotca.github.io/Pathways_2020
 ---
 
 ***
