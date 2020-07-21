@@ -7,8 +7,8 @@ header2: Pathways and Network Analysis of -Omics Data 2020
 image: /site_images/CBW_pathway_icon.jpg
 keywords: Gene lists, predict gene function, identify master regulators
 description: Course covers the bioinformatics concepts and tools available for interpreting a gene list using pathway and network information. 
-intructors: Gary Bader, Veronique Voisin, Robin Haw, Micheal Hoffman,
-length: 3 days
+intructors: Gary Bader, Veronique Voisin, Robin Haw, Micheal Hoffman,Ruth Isserlin
+length: 2,5 days
 ---
 # Welcome 
 
@@ -16,7 +16,7 @@ Welcome to Pathways and Network Analysis of -Omics Data 2020.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/Pathways_2020_schedule).  
 
-Meet your faculty  
+Meet your faculty [here](https://drive.google.com/file/d/1V1Xmgx9VfsPCuW5MAabV0CyMJtFEYGUr/view?usp=sharing)  
 
 **CLASS MATERIALS:** 
 ***
@@ -44,99 +44,71 @@ Comming soon
 
 ##  Welcome 
 
-  *<font color="#827e9c">Michelle Brazas</font>* 
+  *<font color="#827e9c">Arber</font>* 
 
 ##  Module 1: Introduction to Pathway and Network Analysis 
 
-  *<font color="#827e9c">Gary Bader</font>*
-  
-  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1mAdixP7ULnFGiZn-pVd8vM5Keau_O9TE/view?usp=sharing)
-    
-##  Module 2 Finding Over-Represented Pathways 
-
   *<font color="#827e9c">Veronique Voisin</font>*
   
-  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1_hlJx_83Noj9Tt7AD0Ax0kmTjT_wWEW8/view?usp=sharing) 
-  
-  [Introduction to practical lab](https://drive.google.com/a/bioinformatics.ca/file/d/1cN9D6L77rsE-l9ut55tB966A8CFhWwM3/view?usp=sharing)  
-
-  [Lab practical part 1 (g:Profiler)](http://bioinformaticsdotca.github.io/Pathways_2019_Module2_Lab-GProfiler)    
-
-  [Lab practical part 2 (GSEA)](http://bioinformaticsdotca.github.io/Pathways_2019_Module2_Lab-GSEA)    
-  
-## Module 3: Network Visualization and Analysis with Cytoscape 
-
- *<font color="#827e9c">Gary Bader</font>*  
-  
- [Lecture part 1](https://drive.google.com/a/bioinformatics.ca/file/d/15yfdApta64_hJw_h0QfRnsn7a_PnLYIh/view?usp=sharing)  
+  [Module 1](https://baderlab.github.io/CBW_Pathways_2020/intro.html)
     
- [Lecture part 2](https://drive.google.com/a/bioinformatics.ca/file/d/1Eems2200ETVzvD-eOymoP2HgUameinCF/view?usp=sharing) 
- 
- ## Module 3 Lab
- 
- *<font color="#827e9c">Veronique Voisin</font>*  
- 
-[Lab practical part 1 (g:Profiler)](http://bioinformaticsdotca.github.io/Pathways_2019_Module3_Lab-EM_GProfiler)   
+##  Module 2 inding over-represented pathways in gene lists 
 
-[Lab practical part 2 (GSEA)](http://bioinformaticsdotca.github.io/Pathways_2019_Module3_Lab-EM_GSEA)  
+  *<font color="#827e9c">Veronique Voisin & Ruth Isserlin</font>*
+  
+  [Module 2](https://baderlab.github.io/CBW_Pathways_2020/module-2-finding-over-represented-pathways-veronique-voisin.html)
+  
+  [Module 2 Lab](https://baderlab.github.io/CBW_Pathways_2020/gprofiler-lab.html)
+  
+## Module 3: Network Visualization and Analysis with Cytoscape
 
-
+ *<font color="#827e9c">Ruth Isserlin</font>*  
+  
+ [Module 3](https://baderlab.github.io/CBW_Pathways_2020/module-3-network-visualization-and-analysis-with-cytoscape.html)
+ 
+ [Module 3 Lab](https://baderlab.github.io/CBW_Pathways_2020/gprofiler-mod3.html)
+ 
+ 
 # Day 2 <a id="day2"></a>
 
-##  Module 4: More Depth on Network and Pathway Analysis 
+##  Module 4: More Depth on Pathway and Network Analysis 
 
   *<font color="#827e9c">Robin Haw</font>*
   
-  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1dSZdXv6p30DqoZIFYgX53o2e84fgKamv/view?usp=sharing)   
+  [Module 4](https://baderlab.github.io/CBW_Pathways_2020/module-4-in-depth-analysis-of-networks-and-pathways.html)   
   
-  [Lab Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1afXymoPtuLo8R1UyOSrHf2MlcdZ9pDO2/view?usp=sharing)
+  [Module 4 Lab](https://baderlab.github.io/CBW_Pathways_2020/reactome-lab.html)
   
-  [Lab practical](http://bioinformaticsdotca.github.io/Pathways_2019_Module4_lab)
+ 
+##  Module 5: Regulatory Network Analysis
 
-##  Module 5: Gene Function Prediction  
-
-  *<font color="#827e9c">Quaid Morris</font>*
+  *<font color="#827e9c">Michael Hoffman & Veronique Voisin</font>*
   
-  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1Lc9IXnpZeyq_LMqL10C0Igb7C4tzL04m/view?usp=sharing)
+  [Module 5](https://baderlab.github.io/CBW_Pathways_2020/intro-regulatory-networks.html)
   
-  [Lab practical - Cytoscape](http://bioinformaticsdotca.github.io/Pathways_2019_Module5_Lab-GeneMania)   
-  
-  [Lab practical - Web](http://bioinformaticsdotca.github.io/Pathways_2019_Module5_Lab-GeneManiaWeb)  
+  [Module 5 Lab](https://baderlab.github.io/CBW_Pathways_2020/regulatory-network-lab.html)   
   
 
+## Module 6:  Gene Function Prediction
+
+*<font color="#827e9c">Veronique Voisin</font>*
+
+[Module 6](https://baderlab.github.io/CBW_Pathways_2020/module-6-gene-function-prediction.html)
+
+[Module 6 Lab: Cytoscape](https://baderlab.github.io/CBW_Pathways_2020/genemania-cytoscape.html#genemania_cytoscape)
+
+[Module 6 Lab: Web](https://baderlab.github.io/CBW_Pathways_2020/genemania-web.html)
+  
+ 
 # Day 3 <a id="day3"></a>
 
-## Module 6: Regulatory Network Analysis 
+## Review of the tools : Integrated workflow
 
-*<font color="#827e9c">Michael Hoffman</font>*
-  
-  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1o-s4zbmfVnXICsespFrjyJ42ZjTz8dUJ/view?usp=sharing)
-  
-  [Lab lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1Ieg6W0irazZn69jKWopvhcEyLusYHQhy/view?usp=sharing)  
-  
-  [Lab practical](http://bioinformaticsdotca.github.io/Pathways_2019_Module6_Lab) 
+[Assignment](https://baderlab.github.io/CBW_Pathways_2020/integrated-assignment.html) 
 
-
-## Integrated Assignment
-
-[Assignment link](http://bioinformaticsdotca.github.io/Pathways_2019_IA) 
-
-[g:Profiler file](https://github.com/bioinformaticsdotca/Pathways_2019/blob/master/IntegratedAssignment/hsapiens.pathways.NAME.gmt)
-
-[Assignment answers link](http://bioinformaticsdotca.github.io/Pathways_2019_IA_Answers) 
-
-## Additional tutorials <a id="additionaltutorials"></a>
-
-EnrichmentMap (GSEA and g:Profiler) step by step protocol:
-https://www.biorxiv.org/content/early/2017/12/12/232835
-and https://github.com/BaderLab/Cytoscape_workflows
-
-Interacting with Cytoscape using CyRest and command lines (for advanced users):
-https://github.com/cytoscape/cytoscape-automation/blob/master/for-scripters/R/advanced-cancer-networks-and-data-rcy3.Rmd
 
 
 ***
 
-Thank you for attending the Pathway and Network Analysis of Omics Data workshop! Help us make this workshop better by filling out [our survey](https://forms.gle/D8w8qyJ1r71rFnZe9).
 
 *** 
