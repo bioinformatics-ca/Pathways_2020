@@ -14,7 +14,7 @@ home: https://bioinformaticsdotca.github.io/Pathways_2020
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | | **Monday, July 27** | | **Tusday, July 28** | | **Wednesday, July 30** |
 | 10:00 | <font color="purple"> Welcome (Arber)</font> | 10:00 | <font color="purple">Module 4: More Depth on Pathway and Network Analysis (Robin Haw)</font>|10:00  |<font color="purple"> Integrated workflow Part1 (Veronique/Ruth)</font> |  
-| 10:30 | <font color="purple"> Module 1: Introduction to pathway and network analysis (Gary Badr) </font> |||||
+| 10:30 | <font color="purple"> Module 1: Introduction to pathway and network analysis (Gary Bader) </font> |||||
 | 11:00 | <font color="green">* Break*</font>|11:00 | <font color="green">* Break*</font> |11:00 | <font color="green">* Break*</font> |  
 | 11:30 | <font color="purple">Module 2: Finding over-represented pathways in gene lists (Veronique Voisin)</font> |11:15 | <font color="purple">Module 4: Lab (Robin Haw)</font> | 11:30  | <font color="purple">Integrated workflow Part2 (Veronique/Ruth)</font> |
 | 12:30 | <font color="blue">Module 2: Lab (Ruth Isserlin)</font> |||||
