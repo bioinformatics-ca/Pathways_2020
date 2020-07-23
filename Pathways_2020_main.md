@@ -47,7 +47,7 @@ Comming soon
 
 ##  Module 1: Introduction to Pathway and Network Analysis 
 
-  *<font color="#827e9c">Veronique Voisin</font>*
+  *<font color="#827e9c">Gary Bader</font>*
   
   [Module 1](https://baderlab.github.io/CBW_Pathways_2020/intro.html)
     
